@@ -1,0 +1,10 @@
+﻿51307129-2669-4468-9dfa-dae24ad8333a.0\info-->und\51307129-2669-4468-9dfa-dae24ad8333a.0\info
+51307129-2669-4468-9dfa-dae24ad8333a.0\text-->ObjectModule.bsl
+51307129-2669-4468-9dfa-dae24ad8333a.1-->und\51307129-2669-4468-9dfa-dae24ad8333a.1
+5efb4bc6-d331-4ba6-a58a-3077a963679d-->und\5efb4bc6-d331-4ba6-a58a-3077a963679d
+78dc7857-f300-424e-a3b4-0386382a1a54-->und\78dc7857-f300-424e-a3b4-0386382a1a54
+78dc7857-f300-424e-a3b4-0386382a1a54.0-->und\78dc7857-f300-424e-a3b4-0386382a1a54.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
